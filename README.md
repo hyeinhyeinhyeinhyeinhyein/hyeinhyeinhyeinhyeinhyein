@@ -10,6 +10,10 @@
 
 <img alt="c" src ="https://img.shields.io/badge/C-245897.svg?&style=flat-square&logo=c&logoColor=white"/> <img alt="java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/> <img alt="python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/></br><img alt="react" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=black"/> <img alt="express" src ="https://img.shields.io/badge/express-000000.svg?&style=flat-square&logo=react&logoColor=white"/> <img alt="spring" src ="https://img.shields.io/badge/spring-6DB33F.svg?&style=flat-square&logo=react&logoColor=white"/>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=topgun2)](https://solved.ac/topgun2/)
+
+
 <!--
 **hyeinhyeinhyeinhyeinhyein/hyeinhyeinhyeinhyeinhyein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
